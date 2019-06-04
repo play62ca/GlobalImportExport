@@ -1,0 +1,363 @@
+[
+    [
+        "C:\\Users\\Harjinder Ahluwalia\\Desktop\\SalesForce Projects\\FruitsImportExport\\force-app",
+        {
+            "sourcePath": "C:\\Users\\Harjinder Ahluwalia\\Desktop\\SalesForce Projects\\FruitsImportExport\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1559652327679,
+            "changeTime": 1559652448824,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\Harjinder Ahluwalia\\Desktop\\SalesForce Projects\\FruitsImportExport\\force-app\\main",
+        {
+            "sourcePath": "C:\\Users\\Harjinder Ahluwalia\\Desktop\\SalesForce Projects\\FruitsImportExport\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1559652327680,
+            "changeTime": 1559652448824,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Harjinder Ahluwalia\\Desktop\\SalesForce Projects\\FruitsImportExport\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Harjinder Ahluwalia\\Desktop\\SalesForce Projects\\FruitsImportExport\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1559658476366,
+            "changeTime": 1559658476366,
+            "contentHash": "1ac95324ce0f74f2726d3242841d0c1a75b55bdc"
+        }
+    ],
+    [
+        "C:\\Users\\Harjinder Ahluwalia\\Desktop\\SalesForce Projects\\FruitsImportExport\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "C:\\Users\\Harjinder Ahluwalia\\Desktop\\SalesForce Projects\\FruitsImportExport\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1559652327681,
+            "changeTime": 1559652448823,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Harjinder Ahluwalia\\Desktop\\SalesForce Projects\\FruitsImportExport\\force-app\\main\\default\\lwc",
+        {
+            "sourcePath": "C:\\Users\\Harjinder Ahluwalia\\Desktop\\SalesForce Projects\\FruitsImportExport\\force-app\\main\\default\\lwc",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1559652779132,
+            "changeTime": 1559652779132,
+            "contentHash": "a973ac1b5be0e216b2a2db1b82ae5ba97f4086f4",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Harjinder Ahluwalia\\Desktop\\SalesForce Projects\\FruitsImportExport",
+        {
+            "sourcePath": "C:\\Users\\Harjinder Ahluwalia\\Desktop\\SalesForce Projects\\FruitsImportExport",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1559655037234,
+            "changeTime": 1559655037234,
+            "contentHash": "806ba1a6fdbf66cfb747163cfbc2797dba062b4e",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Harjinder Ahluwalia\\Desktop\\SalesForce Projects\\FruitsImportExport\\force-app\\main\\default\\objects\\Fruit__c\\Fruit__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Harjinder Ahluwalia\\Desktop\\SalesForce Projects\\FruitsImportExport\\force-app\\main\\default\\objects\\Fruit__c\\Fruit__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2145,
+            "modifiedTime": 1559658476328,
+            "changeTime": 1559658476328,
+            "contentHash": "a8ce14bf9591e99e214fbeaa2a5adfdc437d96db"
+        }
+    ],
+    [
+        "C:\\Users\\Harjinder Ahluwalia\\Desktop\\SalesForce Projects\\FruitsImportExport\\force-app\\main\\default\\objects\\Fruit__c\\fields\\Country__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Harjinder Ahluwalia\\Desktop\\SalesForce Projects\\FruitsImportExport\\force-app\\main\\default\\objects\\Fruit__c\\fields\\Country__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 398,
+            "modifiedTime": 1559658476331,
+            "changeTime": 1559658476331,
+            "contentHash": "20862ca2294bfcbf055d9799b574bbadb34cc4be"
+        }
+    ],
+    [
+        "C:\\Users\\Harjinder Ahluwalia\\Desktop\\SalesForce Projects\\FruitsImportExport\\force-app\\main\\default\\objects\\Fruit__c\\fields\\Fruit_Name__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Harjinder Ahluwalia\\Desktop\\SalesForce Projects\\FruitsImportExport\\force-app\\main\\default\\objects\\Fruit__c\\fields\\Fruit_Name__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 404,
+            "modifiedTime": 1559658476332,
+            "changeTime": 1559658476332,
+            "contentHash": "38d60bb9fe763d3d4dec06381a15a25106009c64"
+        }
+    ],
+    [
+        "C:\\Users\\Harjinder Ahluwalia\\Desktop\\SalesForce Projects\\FruitsImportExport\\force-app\\main\\default\\objects\\Fruit__c\\listViews\\All.listView-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Harjinder Ahluwalia\\Desktop\\SalesForce Projects\\FruitsImportExport\\force-app\\main\\default\\objects\\Fruit__c\\listViews\\All.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 204,
+            "modifiedTime": 1559658476334,
+            "changeTime": 1559658476334,
+            "contentHash": "a09136a1a46c72265bcd1de0f4a07ba06ec1e9bd"
+        }
+    ],
+    [
+        "C:\\Users\\Harjinder Ahluwalia\\Desktop\\SalesForce Projects\\FruitsImportExport\\force-app\\main\\default\\layouts\\Fruit__c-Fruit Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Harjinder Ahluwalia\\Desktop\\SalesForce Projects\\FruitsImportExport\\force-app\\main\\default\\layouts\\Fruit__c-Fruit Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2931,
+            "modifiedTime": 1559658476351,
+            "changeTime": 1559658476351,
+            "contentHash": "5a8e7706cb5101f13d46ce0a1d4d8bafc1f35126"
+        }
+    ],
+    [
+        "C:\\Users\\Harjinder Ahluwalia\\Desktop\\SalesForce Projects\\FruitsImportExport\\force-app\\main\\default\\flexipages\\Fruit_Import_and_Export_UtilityBar.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Harjinder Ahluwalia\\Desktop\\SalesForce Projects\\FruitsImportExport\\force-app\\main\\default\\flexipages\\Fruit_Import_and_Export_UtilityBar.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 518,
+            "modifiedTime": 1559658476354,
+            "changeTime": 1559658476354,
+            "contentHash": "4719d5c851b4976bcea3d9a220736d3f2ce86040"
+        }
+    ],
+    [
+        "C:\\Users\\Harjinder Ahluwalia\\Desktop\\SalesForce Projects\\FruitsImportExport\\force-app\\main\\default\\tabs\\Fruit__c.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Harjinder Ahluwalia\\Desktop\\SalesForce Projects\\FruitsImportExport\\force-app\\main\\default\\tabs\\Fruit__c.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 222,
+            "modifiedTime": 1559658476357,
+            "changeTime": 1559658476357,
+            "contentHash": "e6d3ceb7c99eb8a50672ce743ff76440c6fcc5a6"
+        }
+    ],
+    [
+        "C:\\Users\\Harjinder Ahluwalia\\Desktop\\SalesForce Projects\\FruitsImportExport\\force-app\\main\\default\\applications\\Fruit_Import_and_Export.app-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Harjinder Ahluwalia\\Desktop\\SalesForce Projects\\FruitsImportExport\\force-app\\main\\default\\applications\\Fruit_Import_and_Export.app-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 628,
+            "modifiedTime": 1559658476361,
+            "changeTime": 1559658476361,
+            "contentHash": "1e1614dc70531984afd48cff42167d61d5c94389"
+        }
+    ],
+    [
+        "C:\\Users\\Harjinder Ahluwalia\\Desktop\\SalesForce Projects\\FruitsImportExport\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Harjinder Ahluwalia\\Desktop\\SalesForce Projects\\FruitsImportExport\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5158,
+            "modifiedTime": 1559658476391,
+            "changeTime": 1559658476391,
+            "contentHash": "cca236066431d8b1d2703a619c6e7b023b600ebb"
+        }
+    ],
+    [
+        "C:\\Users\\Harjinder Ahluwalia\\Desktop\\SalesForce Projects\\FruitsImportExport\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Harjinder Ahluwalia\\Desktop\\SalesForce Projects\\FruitsImportExport\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5158,
+            "modifiedTime": 1559658476397,
+            "changeTime": 1559658476397,
+            "contentHash": "cca236066431d8b1d2703a619c6e7b023b600ebb"
+        }
+    ],
+    [
+        "C:\\Users\\Harjinder Ahluwalia\\Desktop\\SalesForce Projects\\FruitsImportExport\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Harjinder Ahluwalia\\Desktop\\SalesForce Projects\\FruitsImportExport\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 19632,
+            "modifiedTime": 1559658476418,
+            "changeTime": 1559658476418,
+            "contentHash": "2cc9bff003df5cc724fb6f393906d692fc05722d"
+        }
+    ],
+    [
+        "C:\\Users\\Harjinder Ahluwalia\\Desktop\\SalesForce Projects\\FruitsImportExport\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Harjinder Ahluwalia\\Desktop\\SalesForce Projects\\FruitsImportExport\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5496,
+            "modifiedTime": 1559658476424,
+            "changeTime": 1559658476424,
+            "contentHash": "207bf231778a7184b0ab9d3c3bcbe757ebc8ebab"
+        }
+    ],
+    [
+        "C:\\Users\\Harjinder Ahluwalia\\Desktop\\SalesForce Projects\\FruitsImportExport\\force-app\\main\\default\\objects\\Fruit__c",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Harjinder Ahluwalia\\Desktop\\SalesForce Projects\\FruitsImportExport\\force-app\\main\\default\\objects\\Fruit__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1559658476333,
+            "changeTime": 1559658476333,
+            "contentHash": "66af05d6e617d214f0fb9dd09c7893dc89604a8e"
+        }
+    ],
+    [
+        "C:\\Users\\Harjinder Ahluwalia\\Desktop\\SalesForce Projects\\FruitsImportExport\\force-app\\main\\default\\objects",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Harjinder Ahluwalia\\Desktop\\SalesForce Projects\\FruitsImportExport\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1559658476322,
+            "changeTime": 1559658476322,
+            "contentHash": "e5e02b5b544b75f660aa97a44c1a361d5fd2112c"
+        }
+    ],
+    [
+        "C:\\Users\\Harjinder Ahluwalia\\Desktop\\SalesForce Projects\\FruitsImportExport\\force-app\\main\\default\\objects\\Fruit__c\\fields",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Harjinder Ahluwalia\\Desktop\\SalesForce Projects\\FruitsImportExport\\force-app\\main\\default\\objects\\Fruit__c\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1559658476332,
+            "changeTime": 1559658476332,
+            "contentHash": "b2e2f7b67d9d9fc60c14d64f8a468f53c24a9e26"
+        }
+    ],
+    [
+        "C:\\Users\\Harjinder Ahluwalia\\Desktop\\SalesForce Projects\\FruitsImportExport\\force-app\\main\\default\\objects\\Fruit__c\\listViews",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Harjinder Ahluwalia\\Desktop\\SalesForce Projects\\FruitsImportExport\\force-app\\main\\default\\objects\\Fruit__c\\listViews",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1559658476334,
+            "changeTime": 1559658476334,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6"
+        }
+    ],
+    [
+        "C:\\Users\\Harjinder Ahluwalia\\Desktop\\SalesForce Projects\\FruitsImportExport\\force-app\\main\\default\\layouts",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Harjinder Ahluwalia\\Desktop\\SalesForce Projects\\FruitsImportExport\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1559658476351,
+            "changeTime": 1559658476351,
+            "contentHash": "34c6cd682ae6f398dd3c7d51a0f2e623bbdc23ef"
+        }
+    ],
+    [
+        "C:\\Users\\Harjinder Ahluwalia\\Desktop\\SalesForce Projects\\FruitsImportExport\\force-app\\main\\default\\flexipages",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Harjinder Ahluwalia\\Desktop\\SalesForce Projects\\FruitsImportExport\\force-app\\main\\default\\flexipages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1559658476354,
+            "changeTime": 1559658476354,
+            "contentHash": "6d40106419e8b2e4feb1d17c1ea361ec34b901e0"
+        }
+    ],
+    [
+        "C:\\Users\\Harjinder Ahluwalia\\Desktop\\SalesForce Projects\\FruitsImportExport\\force-app\\main\\default\\tabs",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Harjinder Ahluwalia\\Desktop\\SalesForce Projects\\FruitsImportExport\\force-app\\main\\default\\tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1559658476357,
+            "changeTime": 1559658476357,
+            "contentHash": "60eec67ed4d8184a3c0378106174081de1f1eb35"
+        }
+    ],
+    [
+        "C:\\Users\\Harjinder Ahluwalia\\Desktop\\SalesForce Projects\\FruitsImportExport\\force-app\\main\\default\\applications",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Harjinder Ahluwalia\\Desktop\\SalesForce Projects\\FruitsImportExport\\force-app\\main\\default\\applications",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1559658476361,
+            "changeTime": 1559658476361,
+            "contentHash": "c8acb959781e237ce895f8b4827e4867cdce2bc6"
+        }
+    ],
+    [
+        "C:\\Users\\Harjinder Ahluwalia\\Desktop\\SalesForce Projects\\FruitsImportExport\\force-app\\main\\default\\profiles",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Harjinder Ahluwalia\\Desktop\\SalesForce Projects\\FruitsImportExport\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1559658476423,
+            "changeTime": 1559658476423,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+        }
+    ]
+]
